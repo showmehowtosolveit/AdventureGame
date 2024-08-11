@@ -1,0 +1,23 @@
+map.jpg (Map Stage):
+"Imagine a mysterious treasure map with faded, ancient markings leading to unknown lands."
+
+fork_in_road.jpg (Fork in the Road Stage):
+"Visualize a magical fork in the road, each path shrouded in mist and leading to different realms."
+
+wise_old_man.jpg (Encounter with the Wise Old Man):
+"Picture a wise old man with a mystical aura, offering ancient wisdom under the shade of a towering oak tree."
+
+hidden_cave.jpg (Hidden Cave Stage):
+"Imagine a hidden cave entrance, its mouth obscured by vines and ancient runes."
+
+river.jpg (River Stage):
+"Visualize a wide river flowing swiftly, its banks lined with ancient stones and lush greenery."
+
+village.jpg (Village Stage):
+"Picture a quaint village nestled among rolling hills, smoke rising gently from thatched roofs."
+
+treasure.jpg (Successful Outcome):
+"You discover a hidden treasure trove sparkling with ancient jewels and artifacts."
+
+lost.jpg (Unsuccessful Outcome):
+"You wander into a dense fog, paths twisting and fading until you're hopelessly lost.
